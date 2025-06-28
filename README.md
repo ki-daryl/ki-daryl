@@ -13,7 +13,6 @@
 
 ### 👨‍💻 About Me
 
-```html
 <ul>
   <li>🌱 Currently mastering both Frontend and Backend at <strong>ALX SE Program</strong>.</li>
   <li>🎨 Graphic Designer with a deep love for clean, functional UI/UX.</li>
